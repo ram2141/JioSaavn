@@ -1,8 +1,6 @@
-# Musico
+# JioSaavn
 ## _Listen Your favourites_
-A Music App Developed using MERN stack and [JiosaavnAPI](https://github.com/coolguy08/jiosaavn_api)
-
-## Project Live At - [Musico](https://web-musico.herokuapp.com/)
+A Music App Developed using MERN stack and [JiosaavnAPI]
 
 
 
@@ -10,9 +8,7 @@ A Music App Developed using MERN stack and [JiosaavnAPI](https://github.com/cool
 - Reactjs (Frontend)  
 - Redux
 - Expressjs (Backend)
-- Used [JiosaavnAPI](https://github.com/coolguy08/jiosaavn_api)
-
- Explore Backend [JiosaavnApi](https://github.com/coolguy08/jiosaavn_api)
+- Used [JiosaavnAPI]
 
 ### `Features`
 - Enjoy Ads free Music

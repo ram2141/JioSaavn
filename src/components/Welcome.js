@@ -19,7 +19,7 @@ const artists=[
 const greets=[
     {
         greet:"Let's Rock",
-        msg:"Create an account or log in to keep using Musico!"
+        msg:"Create an account or log in to keep using JioSaavn!"
     },
     {
         greet:"Unlimited Listening",
@@ -31,7 +31,7 @@ const greets=[
     }
 ]
 
-const clientId="1097284669182-eee65ec791mdlue6d2npfhhpai794g10.apps.googleusercontent.com";
+const clientId="672523902985-sjkljf3ofk34l9keg44hng2krrv23ror.apps.googleusercontent.com";
 
 function Welcome() {
 

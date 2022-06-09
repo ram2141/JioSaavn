@@ -46,14 +46,14 @@ function Home() {
     }, [loading,data])
 
     if(loading || !data){
-        return <><Header title="Musico"/><Loading/><Menubar/></>
+        return <><Header title="JioSaavn"/><Loading/><Menubar/></>
     }
 
     
 
     return (
         <>
-        <Header title="Musico"/>
+        <Header title="JioSaavn"/>
         <Wrapper>
          <Text color="white" family="Poppins" size="1.0em" padding="20px">{data.greeting}</Text>
          
